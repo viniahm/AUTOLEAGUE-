@@ -1,0 +1,8 @@
+1. Run "Requirements.cmd" as an administrator; it will download the script dependencies (lcu-driver library).
+2. Run autoaccept.py every time you play.
+Have fun!
+
+
+
+
+
